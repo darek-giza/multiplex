@@ -1,0 +1,16 @@
+*.iml
+.idea/
+target
+
+logs
+.idea_modules
+.classpath
+.project
+.settings
+/RUNNING_PID
+.bsp
+.DS_Store
+*.class
+
+.bloop
+.metals
